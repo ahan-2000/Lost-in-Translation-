@@ -10,7 +10,7 @@ The repository currently combines three lines of work:
 
 ## What this repo contains
 
-- `data/`: primary text and spreadsheet sources plus a corpus utility script
+- `data/`: primary text and spreadsheet sources plus a corpus utility script, apart from the listed data other data source comes from Wiedner, Marinus (ed.) (2025): COMETA : Corpus de l’occitan médiéval comparatif et annoté: Provence et Languedoc. <https://zenodo.org/records/15300719>.
 - `lemma analysis/`: phase-based pipeline refactored from notebooks (cleaning, stats, feature engineering, ablation/error analysis)
 - `RQ2: Context Analysis/`: word-vs-context model training scripts, K-fold evaluation, and explainability utilities
 - `priliminary_analysis/`: early experiments for encoder comparisons and MLM/tokenizer work
